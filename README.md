@@ -1,10 +1,10 @@
 # Horiseon-SSS.inc
 
-# Description
+Description
 
-# Screenshot
+Screenshot
 
-# Link for Deployed Application
-
-[Deployed Application URL - Link](#file:///C:/Users/Jeremy/bootcamp/Horiseon-SSS.inc/Develop/index.html)
+Link for Deployed Application
+    
+    [Deployed Application URL - Link](#file:///C:/Users/Jeremy/bootcamp/Horiseon-SSS.inc/Develop/index.html)
 
