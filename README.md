@@ -1,10 +1,13 @@
 # Horiseon-SSS.inc
 
-Description
+# Description
+We performed an on-the-job ticket, where we were given a set amount of acceptance criteria that we had to complete before submitting. We also had to work through submitting a quality README, that gave a quick description, a Mock image, and a live link to our webpage. 
 
-Screenshot
+# Mock-Up
+![Shown view of finished webpage with updates](./Develop/assets/images/image.png)
 
-Link for Deployed Application
+
+# Deployed Application
     
-    [Deployed Application URL - Link](#file:///C:/Users/Jeremy/bootcamp/Horiseon-SSS.inc/Develop/index.html)
+file:///C:/Users/Jeremy/bootcamp/Horiseon-SSS.inc/Develop/index.html
 
