@@ -8,6 +8,5 @@ We performed an on-the-job ticket, where we were given a set amount of acceptanc
 
 
 # Deployed Application
-    
-file:///C:/Users/Jeremy/bootcamp/Horiseon-SSS.inc/Develop/index.html
+
 
