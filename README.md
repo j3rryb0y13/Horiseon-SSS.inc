@@ -9,4 +9,4 @@ We performed an on-the-job ticket, where we were given a set amount of acceptanc
 
 # Deployed Application
 
-[live link](https://j3rryb0y13.github.io/Horiseon-SSS.inc/)
+[live link](https://j3rryb0y13.github.io/Horiseon-SSS.inc/) 
